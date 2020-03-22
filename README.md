@@ -17,6 +17,12 @@ If you want to create an interface that lets people communicate, using a hosted 
 ## Tools
 
 * [Atom teletype](https://teletype.atom.io/)
-* Twitch
-* Youtube
-* Zoom
+* [Visual Studio Live Share](https://visualstudio.microsoft.com/services/live-share/)
+
+
+### Live streaming
+
+* [Google Hangouts](https://hangouts.google.com/)
+* [Twitch](https://www.twitch.tv/)
+* [Youtube](https://www.youtube.com/)
+* [Zoom](https://zoom.us/)
