@@ -17,6 +17,7 @@ If you want to create an interface that lets people communicate, using a hosted 
 ## Tools
 
 * [Atom teletype](https://teletype.atom.io/) - WebRTC based session sharing with Atom editor
+* [Parsec](https://app.parsecgaming.com/) – geared at gaming, but totally works for pairing
 * [Screen](https://screen.so/) – (new) the return of Screen Hero (a pair programming app, bought by slack)
 * [Tuple](https://tuple.app/) – Remote pair programming app (macOS)
 * [Visual Studio Live Share](https://visualstudio.microsoft.com/services/live-share/) – allows multiple people to edit a VS Code project.
